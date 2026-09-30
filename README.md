@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi, I'm Peter Williams 👋
 
-<!--
-**peterrgithub/peterrgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Python Developer | Data Analytics & Automation | Building practical solutions with Python, Streamlit & Git | IT Support | Cybersecurity | AI
 
-Here are some ideas to get you started:
+I leverage technology to turn ideas, data, and everyday business problems into practical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm building my skills in **Python, software development, data analytics, automation, and web application development, e.t.c.**, while creating practical projects that demonstrate what I can do.
+
+## 🛠️ Technologies & Tools
+
+* **Python**
+* **Pandas**
+* **Streamlit**
+* **Data Analysis & Visualization**
+* **Git & GitHub**
+* **Jupyter Notebook**
+* **SQL**
+* **HTML & CSS**
+* **REST APIs**
+* **GitHub & GitHub Actions**
+* **Render**
+
+## 🚀 Featured Projects
+
+### 🌐 Goldlion Services Website
+
+A business website built with **Python and Streamlit library**, featuring multiple pages and a deployed web application.
+
+**Technologies:** Python · Streamlit · Pillow · Git · GitHub · Render
+
+### 📊 Business & Retail Data Analytics
+
+Practical data-analysis projects involving data cleaning, exploratory analysis, profitability analysis, business questions, and communicating insights from data that lead to productively impactful data-driven decision-making for businesses.
+
+**Technologies:** Python · Pandas · Jupyter Notebook · SQL · Data Visualization
+
+## 📚 Currently Developing
+
+* Python software-development skills
+* Data analysis and business intelligence
+* SQL and database skills
+* Automation with Python
+* Web application development
+* Git/GitHub collaboration and professional development workflows
+* Evaluation of AI-assisted data analysis
+* CyberSecurity
+* Mobile Development
+
+## 🎯 My Interests
+
+I'm interested in opportunities involving:
+
+* Software development
+* Python development
+* Data analysis
+* Business analytics
+* Automation
+* Technical support and digital operations
+* Collaborative software projects
+* Remote technology work
+
+## 🤝 Collaboration
+
+I'm open to collaborating on practical software, data, automation, and open-source projects where I can contribute, learn, and build useful real-life applicable solutions in real-time.
+
+## 📫 Connect With Me
+
+Feel free to explore my repositories and connect with me through my professional profiles.
+
+---
+
+⭐ Thanks for visiting my profile!
