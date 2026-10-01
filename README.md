@@ -2,7 +2,7 @@
 
 ### Software Engineer | Python Developer | Data Analytics & Automation | Building practical solutions with Python, Streamlit & Git | IT Support | Cybersecurity | AI
 
-I leverage technology to turn ideas, data, and everyday business problems into practical solutions.
+I leverage technology to turn ideas, data, and everyday business problems into practical solutions with real-life applications in real-time.
 
 I'm building my skills in **Python, software development, data analytics, automation, and web application development, e.t.c.**, while creating practical projects that demonstrate what I can do.
 
