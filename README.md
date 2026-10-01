@@ -28,7 +28,7 @@ I'm building my skills in **Python, software development, data analytics, automa
 
 A multi-page business website built with Python and Streamlit library, featuring a deployed web application.
 
-**Live application:** [goldlionservices.onrender.com](https://goldlionservices.onrender.com)
+**Click to live application:** [goldlionservices.onrender.com](https://goldlionservices.onrender.com)
 
 **Technologies:** Python · Streamlit · Pillow · Git · GitHub · Render
 
