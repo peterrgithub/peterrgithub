@@ -6,6 +6,7 @@ I leverage technology to turn ideas, data, and everyday business problems into p
 
 I'm building my skills in **Python, software development, data analytics, automation, and web application development, e.t.c.**, while creating practical projects that demonstrate what I can do.
 
+
 ## 🛠️ Technologies & Tools
 
 * **Python**
@@ -20,19 +21,23 @@ I'm building my skills in **Python, software development, data analytics, automa
 * **GitHub & GitHub Actions**
 * **Render**
 
+
 ## 🚀 Featured Projects
 
-### 🌐 Goldlion Services Website
+### 🌐 [Goldlion Services Website](https://github.com/peterrgithub/goldlion-services-website-one)
 
-A business website built with **Python and Streamlit library**, featuring multiple pages and a deployed web application.
+A multi-page business website built with Python and Streamlit library, featuring a deployed web application.
+
+**Live application:** [goldlionservices.onrender.com](https://goldlionservices.onrender.com)
 
 **Technologies:** Python · Streamlit · Pillow · Git · GitHub · Render
 
-### 📊 Business & Retail Data Analytics
+### 📊 [Business-Profitability-Analysis](https://github.com/peterrgithub/Business-Profitability-Analysis)
 
-Practical data-analysis projects involving data cleaning, exploratory analysis, profitability analysis, business questions, and communicating insights from data that lead to productively impactful data-driven decision-making for businesses.
+A business profitability analysis project using Python and pandas to analyze sales, profit, margins, product-level profitability, categories, regions, and discount levels. The project also uses SQL/SQLite for independent validation and documents how AI-generated analytical results can be evaluated for assumptions, limitations, and evidence to make profitability analysis, address business questions, and communicate insights from data that lead to productively impactful data-driven decision-making for businesses.
 
-**Technologies:** Python · Pandas · Jupyter Notebook · SQL · Data Visualization
+**Technologies:** Python · Pandas · Jupyter Notebook · SQL · SQLite · Data Visualization · Git · GitHub
+
 
 ## 📚 Currently Developing
 
@@ -45,6 +50,7 @@ Practical data-analysis projects involving data cleaning, exploratory analysis, 
 * Evaluation of AI-assisted data analysis
 * CyberSecurity
 * Mobile Development
+
 
 ## 🎯 My Interests
 
@@ -59,6 +65,7 @@ I'm interested in opportunities involving:
 * Collaborative software projects
 * Remote technology work
 
+
 ## 🤝 Collaboration
 
 I'm open to collaborating on practical software, data, automation, and open-source projects where I can contribute, learn, and build useful real-life applicable solutions in real-time.
@@ -69,4 +76,4 @@ Feel free to explore my repositories and connect with me through my professional
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Loadsa thanks for visiting my profile!
