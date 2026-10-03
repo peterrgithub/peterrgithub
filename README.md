@@ -41,8 +41,8 @@ A business profitability analysis project using Python and pandas to analyze sal
 **Technologies:** Python · Pandas · Jupyter Notebook · SQL · SQLite · Data Visualization · Git · GitHub
 
 
-## <img width="21" height="19" alt="Stack" src="https://github.com/user-attachments/assets/1f0cc8be-7ce8-4ec6-baf1-289858f8aa25" />
- 📚 Currently Developing
+## 📚 <img width="21" height="19" alt="Stack" src="https://github.com/user-attachments/assets/d058f6bf-6935-4877-a93a-bd58a554c7bb" />
+Currently Developing
 
 * Python software-development skills
 * Data analysis and business intelligence
