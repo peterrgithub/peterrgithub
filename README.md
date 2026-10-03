@@ -1,4 +1,5 @@
-# Hi, Peter Williams here! 👋 <img width="312" height="280" alt="Hi 1" src="https://github.com/user-attachments/assets/cce6c7fe-c0b3-44dd-9fd5-03a784d3ffd0" />
+# Hi, Peter Williams here! 👋 <img width="20" height="17" alt="Hi 1" src="https://github.com/user-attachments/assets/40eb5fa9-1a97-47d6-a777-c99f764bc3bf" />
+
 
 
 ### Software Engineer | Python Developer | Data Analytics & Automation | Building practical solutions with Python, Streamlit & Git | IT Support | Cybersecurity | AI
