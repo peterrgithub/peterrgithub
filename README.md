@@ -1,4 +1,5 @@
-# Hi, Peter Williams here! 👋
+# Hi, Peter Williams here! 👋 <img width="312" height="280" alt="Hi 1" src="https://github.com/user-attachments/assets/cce6c7fe-c0b3-44dd-9fd5-03a784d3ffd0" />
+
 
 ### Software Engineer | Python Developer | Data Analytics & Automation | Building practical solutions with Python, Streamlit & Git | IT Support | Cybersecurity | AI
 
@@ -7,7 +8,7 @@ I leverage technology to turn ideas, data, and everyday business problems into p
 I'm building my skills in **Python, software development, data analytics, automation, and web application development, e.t.c.**, while creating practical projects that demonstrate what I can do.
 
 
-## 🛠️ Technologies & Tools
+## 🛠️ <i class="bi bi-tools"></i> Technologies & Tools
 
 * **Python**
 * **Pandas**
@@ -22,7 +23,7 @@ I'm building my skills in **Python, software development, data analytics, automa
 * **Render**
 
 
-## 🚀 Featured Projects
+## <i class="bi bi-trophy-fill"></i> 🚀 Featured Projects
 
 ### 🌐 [Goldlion Services Website](https://github.com/peterrgithub/goldlion-services-website-one)
 
@@ -39,7 +40,7 @@ A business profitability analysis project using Python and pandas to analyze sal
 **Technologies:** Python · Pandas · Jupyter Notebook · SQL · SQLite · Data Visualization · Git · GitHub
 
 
-## 📚 Currently Developing
+## <i class="bi bi-stack"></i> 📚 Currently Developing
 
 * Python software-development skills
 * Data analysis and business intelligence
@@ -70,7 +71,7 @@ I'm interested in opportunities involving:
 
 I'm open to collaborating on practical software, data, automation, and open-source projects where I can contribute, learn, and build useful real-life applicable solutions in real-time.
 
-## 📫 Connect With Me
+## 📫 <i class="bi bi-telephone-inbound-fill"></i> Reach Me
 
 Feel free to explore my repositories and connect with me through my professional profiles.
 
