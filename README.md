@@ -1,4 +1,4 @@
-# Hi, Peter Williams here! 👋 <img width="40" height="34" alt="Hi 1" src="https://github.com/user-attachments/assets/40eb5fa9-1a97-47d6-a777-c99f764bc3bf" />
+# Hi, Peter Williams here! <img width="40" height="34" alt="Hi 1" src="https://github.com/user-attachments/assets/40eb5fa9-1a97-47d6-a777-c99f764bc3bf" />
 
 
 
@@ -41,7 +41,8 @@ A business profitability analysis project using Python and pandas to analyze sal
 **Technologies:** Python · Pandas · Jupyter Notebook · SQL · SQLite · Data Visualization · Git · GitHub
 
 
-## <i class="bi bi-stack"></i> 📚 Currently Developing
+## <img width="21" height="19" alt="Stack" src="https://github.com/user-attachments/assets/1f0cc8be-7ce8-4ec6-baf1-289858f8aa25" />
+ 📚 Currently Developing
 
 * Python software-development skills
 * Data analysis and business intelligence
