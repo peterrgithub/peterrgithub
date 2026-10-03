@@ -1,4 +1,4 @@
-# Hi, Peter Williams here! 👋 <img width="20" height="17" alt="Hi 1" src="https://github.com/user-attachments/assets/40eb5fa9-1a97-47d6-a777-c99f764bc3bf" />
+# Hi, Peter Williams here! 👋 <img width="40" height="34" alt="Hi 1" src="https://github.com/user-attachments/assets/40eb5fa9-1a97-47d6-a777-c99f764bc3bf" />
 
 
 
